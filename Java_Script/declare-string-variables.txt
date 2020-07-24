@@ -1,0 +1,8 @@
+//  Declare String Variables
+
+// var myName = "your name";
+
+// your name is called a string literal
+
+var myFirstName = "rahul" ;
+var myLastName = "kumar" ;

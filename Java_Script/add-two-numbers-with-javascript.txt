@@ -1,0 +1,3 @@
+// add 2 number with js
+
+var sum = 0 + 20;
