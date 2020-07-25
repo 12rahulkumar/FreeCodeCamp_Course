@@ -1,0 +1,9 @@
+// Basic JavaScript: Shopping List
+
+var myList = [
+  ["soyabean",33],
+  ["matar",23],
+  ["paneer",12],
+  ["daal",22],
+  ["rice",34]
+];

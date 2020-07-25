@@ -1,0 +1,11 @@
+//  Basic JavaScript: Write Reusable JavaScript with Functions
+
+// function functionname(){
+//   console.log(2+3);
+// }
+
+function reusableFunction(){
+  console.log('Hi World');
+}
+
+reusableFunction();
