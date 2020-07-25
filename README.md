@@ -1,2 +1,2 @@
 # FreeCodeCamp_Course
-Web designing course at Free_code_camp
+Full Stack Web designing course at Free_code_camp
