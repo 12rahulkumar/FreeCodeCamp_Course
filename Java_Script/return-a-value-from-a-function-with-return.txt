@@ -1,0 +1,7 @@
+//  Basic JavaScript: Return a Value from a Function with Return
+
+function timesFive(num){
+  num = num*5;
+
+  return num;
+}
